@@ -2,9 +2,29 @@
 
 # NexusFIX: High Performance FIX Protocol Engine
 
-**Project Status**: DEFERRED (Long-term Planning)
+**Organization**: SilverstreamsAI
+**Project Status**: Active Development
 **Category**: Infrastructure / Trading Connectivity
-**C++ Standard**: C++23
+**C++ Standard**: C++23 (ISO/IEC 14882:2024)
+
+---
+
+## Contribution Policy
+
+**Pull Requests**: Currently limited to **bug fixes only**.
+- Feature PRs will not be accepted at this time
+- Bug fix PRs must include reproduction steps and test cases
+- All contributions must follow the Modern C++ standards defined below
+
+**Issues & Discussions**: Welcome for performance discussions, bug reports, and questions.
+
+---
+
+## Commercial Support
+
+For enterprise support, kernel bypass extensions, FPGA integration, or custom development:
+
+**Contact**: contact@silverstream.tech
 
 ## 1. Project Overview
 
